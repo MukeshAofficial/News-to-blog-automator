@@ -10,4 +10,4 @@ A Streamlit application that automates the creation of professional blog posts b
 - **Customizable:** Input any topic to generate a blog post.
 - **Powered by AI:** Utilizes Gemini LLM via CrewAI for intelligent news summarization and writing.
 
-- 
+  
