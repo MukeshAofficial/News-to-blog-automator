@@ -1,0 +1,5 @@
+streamlit 
+crewai
+google-search-results
+crewai[tools]
+IPython
