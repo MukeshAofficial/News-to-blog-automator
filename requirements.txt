@@ -4,4 +4,3 @@ google-search-results
 crewai[tools]
 IPython
 chromadb
-langchain
