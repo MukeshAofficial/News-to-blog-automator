@@ -1,4 +1,3 @@
-%%writefile app.py
 import streamlit as st
 from crewai import Agent, Task, Crew, Process, LLM
 from crewai_tools import SerperDevTool
