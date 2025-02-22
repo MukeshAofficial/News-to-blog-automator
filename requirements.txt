@@ -3,5 +3,5 @@ crewai
 google-search-results
 crewai[tools]
 IPython
-sqlite3
+pysqlite3
 chromadb
